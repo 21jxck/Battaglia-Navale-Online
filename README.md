@@ -85,6 +85,10 @@ La UI mostra:
 - griglia avversaria: acqua e colpi.
 - notifiche di affondamento e vittoria/sconfitta.
 
+<img width="380" height="848" alt="image" src="https://github.com/user-attachments/assets/21e79d18-3927-4ef0-a2f8-a822a6dee1bb" />
+<img width="382" height="847" alt="image" src="https://github.com/user-attachments/assets/adaa2b46-1c37-4466-8796-d056f505f0af" />
+Immagini raffiguranti la UI dei giocatori durante una partita, trascinando sullo schermo si possono vedere in basso le coordinate delle proprie navi.
+
 ## Requisiti dell app
 
 I requisiti per poter eseguire il progetto sono i seguenti: 
