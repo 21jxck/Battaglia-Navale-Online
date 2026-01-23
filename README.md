@@ -6,8 +6,8 @@ Il gioco permette a due giocatori di sfidarsi in tempo reale tramite WebSocket.
 ## Indice
 
 - [Struttura del progetto](#struttura-del-progetto)  
-- [Server](#server)  
-- [Client](#client)  
+- [Server](#server (`Remote_Game`))
+- [Client](#client (`remote_game_client`))
 - [Funzionamento](#funzionamento)
 - [Griglia e navi](#griglia-e-navi)
 - [Comunicazione WebSocket](#comunicazione-websocket)
